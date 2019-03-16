@@ -1,0 +1,15 @@
+page-home {
+    .button{
+        background:#00ff00;   
+        color: #fff;
+        border: 5px solid rgb(206, 12, 12);
+        border-radius: 10%;
+        padding: 10px;
+        color-adjust: #00ff00;
+        margin:2px 2px 2px 2px;
+    }
+    button:hover {
+        box-shadow: 0 0px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+        color:rgb(206, 12, 12);
+    }
+}
